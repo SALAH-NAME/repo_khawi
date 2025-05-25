@@ -14,7 +14,7 @@ const MoroccanChatBot = () => {
   // Translation object
   const translations = {
     ar: {
-      title: "مرشد التوجيه الأكاديمي",
+      title: "البوصلة الأكاديمية",
       subtitle: "مساعدك الذكي للتوجيه التعليمي والمهني",
       welcomeMessage: "مرحباً! أنا مساعدك الأكاديمي. كيف يمكنني مساعدتك اليوم في اختيار مسارك التعليمي أو المهني؟",
       placeholder: "اكتب رسالتك هنا...",
@@ -29,7 +29,7 @@ const MoroccanChatBot = () => {
       botResponse: "شكراً لسؤالك! يمكنني مساعدتك في اختيار المسار التعليمي المناسب. هل تريد معرفة المزيد عن الجامعات المغربية أو المسابقات؟"
     },
     fr: {
-      title: "Guide d'Orientation Académique",
+      title: "La Boussole Académique",
       subtitle: "Votre assistant intelligent pour l'orientation éducative et professionnelle",
       welcomeMessage: "Bonjour! Je suis votre assistant académique. Comment puis-je vous aider aujourd'hui à choisir votre parcours éducatif ou professionnel?",
       placeholder: "Tapez votre message ici...",
@@ -44,7 +44,7 @@ const MoroccanChatBot = () => {
       botResponse: "Merci pour votre question! Je peux vous aider à choisir le bon parcours éducatif. Voulez-vous en savoir plus sur les universités marocaines ou les concours?"
     },
     en: {
-      title: "Academic Guidance Advisor",
+      title: "Academic Compass",
       subtitle: "Your smart assistant for educational and career guidance",
       welcomeMessage: "Hello! I'm your academic assistant. How can I help you today in choosing your educational or career path?",
       placeholder: "Type your message here...",
@@ -59,7 +59,7 @@ const MoroccanChatBot = () => {
       botResponse: "Thank you for your question! I can help you choose the right educational path. Would you like to know more about Moroccan universities or entrance exams?"
     },
     darija: {
-      title: "مرشد التوجيه ديالنا",
+      title: "بوصولتك الدراسية",
       subtitle: "المساعد الذكي ديالك للتوجيه فالدراسة والخدمة",
       welcomeMessage: "أهلا وسهلا! أنا المساعد ديالك فالدراسة. كيفاش يمكنني نعاونك اليوم باش تختار الطريق ديالك فالتعليم أو الخدمة؟",
       placeholder: "كتب الرسالة ديالك هنا...",
